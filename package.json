@@ -1,0 +1,42 @@
+{
+  "name": "prabeen-pack",
+  "displayName": "Prabeen Extension Pack",
+  "description": "Quick setup in just one click",
+  "version": "0.0.1",
+  "publisher": "prabeen",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "njpwerner.autodocstring",
+    "pranaygp.vscode-css-peek",
+    "bradlc.vscode-tailwindcss",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "Durzn.brackethighlighter",
+    "chunsen.bracket-select",
+    "wraith13.bracket-lens",
+    "burkeholland.simple-react-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "ms-vscode.vscode-typescript-next",
+    "PulkitGangwar.nextjs-snippets",
+    "Cardinal90.multi-cursor-case-preserve",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "PKief.material-icon-theme",
+    "GrayJack.monokai-grayjack",
+    "s-nlf-fh.glassit"
+  ]
+}
