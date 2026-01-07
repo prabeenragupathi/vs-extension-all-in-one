@@ -11,6 +11,27 @@ This pack boosts productivity with tools for:
 
 ---
 
+## 🚀 Install from VSIX (GitHub)
+
+To install this extension pack from the `.vsix` file in this repository, follow these steps:
+
+1. **Download** the latest `.vsix` file from this repository.  
+   Example: `prabeen-pack-0.0.1.vsix`
+
+2. **Open VS Code**
+
+3. Go to the **Extensions** panel (`Ctrl + Shift + X`)
+
+4. Click the **three-dot menu (⋯)** → **Install from VSIX…**
+
+5. **Select** the downloaded `.vsix` file
+
+6. **Reload VS Code** if prompted
+
+✅ All extensions in the pack will be installed automatically.
+
+---
+
 ## ✨ What’s Included
 
 ### 🔧 Code Quality & Formatting
